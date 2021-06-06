@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reto-calculadora/static/css/main.66de9fde.chunk.css",
+    "main.js": "/reto-calculadora/static/js/main.6be6ec9f.chunk.js",
+    "main.js.map": "/reto-calculadora/static/js/main.6be6ec9f.chunk.js.map",
+    "runtime-main.js": "/reto-calculadora/static/js/runtime-main.ee9edb55.js",
+    "runtime-main.js.map": "/reto-calculadora/static/js/runtime-main.ee9edb55.js.map",
+    "static/js/2.fc2f2a86.chunk.js": "/reto-calculadora/static/js/2.fc2f2a86.chunk.js",
+    "static/js/2.fc2f2a86.chunk.js.map": "/reto-calculadora/static/js/2.fc2f2a86.chunk.js.map",
+    "index.html": "/reto-calculadora/index.html",
+    "static/css/main.66de9fde.chunk.css.map": "/reto-calculadora/static/css/main.66de9fde.chunk.css.map",
+    "static/js/2.fc2f2a86.chunk.js.LICENSE.txt": "/reto-calculadora/static/js/2.fc2f2a86.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee9edb55.js",
+    "static/js/2.fc2f2a86.chunk.js",
+    "static/css/main.66de9fde.chunk.css",
+    "static/js/main.6be6ec9f.chunk.js"
+  ]
+}
