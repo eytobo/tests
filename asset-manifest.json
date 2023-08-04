@@ -1,20 +1,6 @@
 {
   "files": {
     "main.css": "/RetoCalculadora/static/css/main.66de9fde.chunk.css",
-    "main.js": "/RetoCalculadora/static/js/main.6be6ec9f.chunk.js",
-    "main.js.map": "/RetoCalculadora/static/js/main.6be6ec9f.chunk.js.map",
-    "runtime-main.js": "/RetoCalculadora/static/js/runtime-main.a25f47fd.js",
-    "runtime-main.js.map": "/RetoCalculadora/static/js/runtime-main.a25f47fd.js.map",
-    "static/js/2.fc2f2a86.chunk.js": "/RetoCalculadora/static/js/2.fc2f2a86.chunk.js",
-    "static/js/2.fc2f2a86.chunk.js.map": "/RetoCalculadora/static/js/2.fc2f2a86.chunk.js.map",
-    "index.html": "/RetoCalculadora/index.html",
-    "static/css/main.66de9fde.chunk.css.map": "/RetoCalculadora/static/css/main.66de9fde.chunk.css.map",
-    "static/js/2.fc2f2a86.chunk.js.LICENSE.txt": "/RetoCalculadora/static/js/2.fc2f2a86.chunk.js.LICENSE.txt"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.a25f47fd.js",
-    "static/js/2.fc2f2a86.chunk.js",
-    "static/css/main.66de9fde.chunk.css",
     "static/js/main.6be6ec9f.chunk.js"
   ]
 }
